@@ -1,0 +1,62 @@
+
+spjs.png
+size: 885,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/jiesuohm
+  rotate: false
+  xy: 2, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/pz0000
+  rotate: false
+  xy: 254, 62
+  size: 140, 452
+  orig: 250, 500
+  offset: 55, 24
+  index: -1
+images/pz0001
+  rotate: false
+  xy: 2, 14
+  size: 250, 500
+  orig: 250, 500
+  offset: 0, 0
+  index: -1
+images/qq_00026
+  rotate: false
+  xy: 396, 214
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+images/xpz
+  rotate: true
+  xy: 698, 182
+  size: 140, 179
+  orig: 140, 179
+  offset: 0, 0
+  index: -1
+images/xpz1
+  rotate: true
+  xy: 396, 2
+  size: 210, 244
+  orig: 210, 244
+  offset: 0, 0
+  index: -1
+images/xx
+  rotate: true
+  xy: 642, 30
+  size: 150, 145
+  orig: 150, 150
+  offset: 0, 5
+  index: -1
+images/xxd
+  rotate: true
+  xy: 698, 324
+  size: 190, 185
+  orig: 190, 185
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+xzhd.png
+size: 149,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2water_up
+  rotate: false
+  xy: 2, 62
+  size: 145, 60
+  orig: 145, 60
+  offset: 0, 0
+  index: -1
+water_light1
+  rotate: false
+  xy: 2, 2
+  size: 143, 58
+  orig: 143, 58
+  offset: 0, 0
+  index: -1

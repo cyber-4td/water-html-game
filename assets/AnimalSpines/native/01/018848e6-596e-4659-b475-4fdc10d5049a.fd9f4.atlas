@@ -1,0 +1,146 @@
+
+zhuye6.png
+size: 1519,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+che1
+  rotate: false
+  xy: 2, 4
+  size: 244, 389
+  orig: 244, 389
+  offset: 0, 0
+  index: -1
+che2
+  rotate: false
+  xy: 689, 149
+  size: 404, 244
+  orig: 404, 244
+  offset: 0, 0
+  index: -1
+ed1
+  rotate: false
+  xy: 1202, 8
+  size: 71, 91
+  orig: 71, 91
+  offset: 0, 0
+  index: -1
+ed2
+  rotate: false
+  xy: 1275, 116
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 926, 29
+  size: 118, 14
+  orig: 120, 16
+  offset: 1, 1
+  index: -1
+shou1
+  rotate: false
+  xy: 942, 32
+  size: 190, 115
+  orig: 190, 116
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 1275, 5
+  size: 147, 65
+  orig: 147, 66
+  offset: 0, 1
+  index: -1
+st1
+  rotate: false
+  xy: 1095, 169
+  size: 217, 224
+  orig: 217, 227
+  offset: 0, 0
+  index: -1
+st2
+  rotate: false
+  xy: 1134, 12
+  size: 66, 155
+  orig: 66, 155
+  offset: 0, 0
+  index: -1
+st3
+  rotate: false
+  xy: 1314, 287
+  size: 203, 106
+  orig: 205, 108
+  offset: 1, 1
+  index: -1
+tf1
+  rotate: false
+  xy: 248, 5
+  size: 154, 134
+  orig: 154, 134
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: false
+  xy: 489, 146
+  size: 198, 247
+  orig: 198, 247
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 248, 141
+  size: 252, 239
+  orig: 252, 240
+  offset: 0, 1
+  index: -1
+tui1
+  rotate: false
+  xy: 495, 5
+  size: 219, 139
+  orig: 223, 140
+  offset: 4, 1
+  index: -1
+tui2
+  rotate: true
+  xy: 716, 2
+  size: 145, 107
+  orig: 145, 107
+  offset: 0, 0
+  index: -1
+wmx
+  rotate: true
+  xy: 1314, 101
+  size: 184, 194
+  orig: 186, 196
+  offset: 1, 1
+  index: -1
+yj1
+  rotate: false
+  xy: 1275, 72
+  size: 32, 42
+  orig: 34, 44
+  offset: 1, 1
+  index: -1
+yj2
+  rotate: true
+  xy: 926, 13
+  size: 14, 38
+  orig: 16, 40
+  offset: 1, 1
+  index: -1
+zuiba1
+  rotate: true
+  xy: 404, 8
+  size: 131, 89
+  orig: 133, 91
+  offset: 1, 1
+  index: -1
+zuiba2
+  rotate: true
+  xy: 825, 8
+  size: 139, 99
+  orig: 141, 101
+  offset: 1, 1
+  index: -1

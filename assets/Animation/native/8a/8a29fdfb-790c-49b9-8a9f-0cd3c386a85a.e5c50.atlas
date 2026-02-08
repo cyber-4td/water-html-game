@@ -1,0 +1,41 @@
+
+tgcg.png
+size: 360,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/lz0000
+  rotate: true
+  xy: 2, 12
+  size: 89, 114
+  orig: 89, 150
+  offset: 0, 22
+  index: -1
+images/lz0001
+  rotate: true
+  xy: 2, 103
+  size: 59, 122
+  orig: 89, 150
+  offset: 16, 11
+  index: -1
+images/lz0002
+  rotate: true
+  xy: 126, 83
+  size: 79, 150
+  orig: 89, 150
+  offset: 0, 0
+  index: -1
+images/lz0003
+  rotate: true
+  xy: 118, 2
+  size: 79, 149
+  orig: 89, 150
+  offset: 6, 0
+  index: -1
+images/lz0004
+  rotate: false
+  xy: 278, 14
+  size: 80, 148
+  orig: 89, 150
+  offset: 8, 0
+  index: -1

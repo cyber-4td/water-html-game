@@ -1,0 +1,13 @@
+
+anlg.png
+size: 204,65
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lg1
+  rotate: false
+  xy: 2, 2
+  size: 200, 61
+  orig: 200, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+daoshui.png
+size: 150,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lianyi
+  rotate: false
+  xy: 2, 45
+  size: 91, 28
+  orig: 93, 30
+  offset: 1, 1
+  index: -1
+shui1
+  rotate: true
+  xy: 36, 6
+  size: 37, 25
+  orig: 39, 27
+  offset: 1, 1
+  index: -1
+shui2
+  rotate: true
+  xy: 63, 11
+  size: 32, 25
+  orig: 41, 50
+  offset: 8, 1
+  index: -1
+shui3
+  rotate: true
+  xy: 2, 10
+  size: 33, 32
+  orig: 35, 34
+  offset: 1, 1
+  index: -1
+shui4
+  rotate: true
+  xy: 124, 2
+  size: 25, 23
+  orig: 27, 25
+  offset: 1, 1
+  index: -1
+shui5
+  rotate: true
+  xy: 90, 4
+  size: 23, 32
+  orig: 25, 34
+  offset: 1, 1
+  index: -1
+shui6
+  rotate: true
+  xy: 95, 29
+  size: 44, 37
+  orig: 46, 39
+  offset: 1, 1
+  index: -1
+shui7
+  rotate: false
+  xy: 134, 57
+  size: 14, 16
+  orig: 16, 18
+  offset: 1, 1
+  index: -1

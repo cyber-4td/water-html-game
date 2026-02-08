@@ -1,0 +1,20 @@
+
+hzxx.png
+size: 216,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hz
+  rotate: false
+  xy: 160, 83
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 2, 2
+  size: 155, 156
+  orig: 169, 170
+  offset: 7, 7
+  index: -1

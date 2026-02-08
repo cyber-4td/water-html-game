@@ -1,0 +1,83 @@
+
+ma.png
+size: 396,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 371, 20
+  size: 75, 10
+  orig: 75, 10
+  offset: 0, 0
+  index: -1
+ed1
+  rotate: false
+  xy: 335, 16
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+ed2
+  rotate: true
+  xy: 304, 61
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 232, 4
+  size: 75, 6
+  orig: 77, 8
+  offset: 1, 1
+  index: -1
+shou1
+  rotate: true
+  xy: 232, 12
+  size: 47, 101
+  orig: 49, 103
+  offset: 1, 1
+  index: -1
+shou2
+  rotate: true
+  xy: 304, 97
+  size: 43, 90
+  orig: 45, 92
+  offset: 1, 1
+  index: -1
+st
+  rotate: true
+  xy: 133, 3
+  size: 137, 97
+  orig: 139, 99
+  offset: 1, 1
+  index: -1
+tj1
+  rotate: false
+  xy: 351, 77
+  size: 13, 18
+  orig: 15, 20
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 2, 8
+  size: 132, 129
+  orig: 134, 131
+  offset: 1, 1
+  index: -1
+toufa
+  rotate: true
+  xy: 232, 61
+  size: 79, 70
+  orig: 81, 72
+  offset: 1, 1
+  index: -1
+yj2
+  rotate: true
+  xy: 335, 2
+  size: 12, 18
+  orig: 14, 20
+  offset: 1, 1
+  index: -1

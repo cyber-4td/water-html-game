@@ -1,0 +1,97 @@
+
+yang.png
+size: 583,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 2, 6
+  size: 75, 10
+  orig: 75, 10
+  offset: 0, 0
+  index: -1
+bizi
+  rotate: true
+  xy: 79, 5
+  size: 11, 10
+  orig: 13, 12
+  offset: 1, 1
+  index: -1
+ed1
+  rotate: false
+  xy: 397, 50
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+ed2
+  rotate: false
+  xy: 397, 94
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 160, 48
+  size: 173, 90
+  orig: 175, 92
+  offset: 1, 1
+  index: -1
+maozi2
+  rotate: false
+  xy: 319, 2
+  size: 144, 44
+  orig: 146, 46
+  offset: 1, 1
+  index: -1
+maozi21
+  rotate: true
+  xy: 335, 69
+  size: 69, 36
+  orig: 71, 38
+  offset: 1, 1
+  index: -1
+shou1
+  rotate: false
+  xy: 527, 7
+  size: 54, 65
+  orig: 56, 67
+  offset: 1, 1
+  index: -1
+shou2
+  rotate: false
+  xy: 465, 8
+  size: 60, 64
+  orig: 62, 66
+  offset: 1, 1
+  index: -1
+st
+  rotate: false
+  xy: 465, 74
+  size: 115, 64
+  orig: 115, 64
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 18
+  size: 156, 120
+  orig: 158, 122
+  offset: 1, 1
+  index: -1
+tou2
+  rotate: false
+  xy: 160, 4
+  size: 157, 42
+  orig: 159, 44
+  offset: 1, 1
+  index: -1
+yanj
+  rotate: false
+  xy: 335, 48
+  size: 60, 19
+  orig: 62, 21
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+lts.png
+size: 182,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: true
+  xy: 2, 2
+  size: 106, 127
+  orig: 106, 127
+  offset: 0, 0
+  index: -1
+gc2
+  rotate: false
+  xy: 131, 54
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1

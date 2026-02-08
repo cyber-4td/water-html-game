@@ -1,0 +1,83 @@
+
+yxbz.png
+size: 946,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha0000
+  rotate: false
+  xy: 861, 223
+  size: 68, 75
+  orig: 150, 147
+  offset: 35, 28
+  index: -1
+baozha0001
+  rotate: true
+  xy: 845, 34
+  size: 115, 99
+  orig: 150, 147
+  offset: 13, 20
+  index: -1
+baozha0002
+  rotate: false
+  xy: 705, 9
+  size: 138, 140
+  orig: 150, 147
+  offset: 5, 5
+  index: -1
+baozha0003
+  rotate: false
+  xy: 557, 5
+  size: 146, 144
+  orig: 150, 147
+  offset: 1, 3
+  index: -1
+baozha0004
+  rotate: false
+  xy: 561, 151
+  size: 148, 147
+  orig: 150, 147
+  offset: 1, 0
+  index: -1
+baozha0005
+  rotate: false
+  xy: 258, 151
+  size: 150, 147
+  orig: 150, 147
+  offset: 0, 0
+  index: -1
+baozha0006
+  rotate: false
+  xy: 711, 151
+  size: 148, 147
+  orig: 150, 147
+  offset: 1, 0
+  index: -1
+baozha0007
+  rotate: false
+  xy: 408, 2
+  size: 147, 147
+  orig: 150, 147
+  offset: 3, 0
+  index: -1
+baozha0008
+  rotate: false
+  xy: 258, 2
+  size: 148, 147
+  orig: 150, 147
+  offset: 2, 0
+  index: -1
+baozha0009
+  rotate: false
+  xy: 410, 151
+  size: 149, 147
+  orig: 150, 147
+  offset: 1, 0
+  index: -1
+z
+  rotate: false
+  xy: 2, 47
+  size: 254, 251
+  orig: 254, 251
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+guangzhu.png
+size: 1876,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_00000
+  rotate: true
+  xy: 1705, 10
+  size: 80, 148
+  orig: 200, 540
+  offset: 62, 52
+  index: -1
+glow_00001
+  rotate: true
+  xy: 1266, 110
+  size: 152, 240
+  orig: 200, 540
+  offset: 22, 20
+  index: -1
+glow_00002
+  rotate: false
+  xy: 1692, 92
+  size: 180, 296
+  orig: 200, 540
+  offset: 10, 12
+  index: -1
+glow_00003
+  rotate: true
+  xy: 900, 200
+  size: 188, 340
+  orig: 200, 540
+  offset: 6, 12
+  index: -1
+glow_00004
+  rotate: true
+  xy: 884, 10
+  size: 188, 380
+  orig: 200, 540
+  offset: 6, 12
+  index: -1
+glow_00005
+  rotate: true
+  xy: 471, 10
+  size: 188, 411
+  orig: 200, 540
+  offset: 6, 16
+  index: -1
+glow_00006
+  rotate: true
+  xy: 462, 200
+  size: 188, 436
+  orig: 200, 540
+  offset: 6, 16
+  index: -1
+glow_00007
+  rotate: true
+  xy: 2, 200
+  size: 188, 458
+  orig: 200, 540
+  offset: 6, 16
+  index: -1
+glow_00008
+  rotate: true
+  xy: 2, 18
+  size: 180, 467
+  orig: 200, 540
+  offset: 10, 20
+  index: -1
+glow_00009
+  rotate: true
+  xy: 1242, 264
+  size: 124, 448
+  orig: 200, 540
+  offset: 38, 44
+  index: -1
+glow_00010
+  rotate: true
+  xy: 1266, 2
+  size: 88, 437
+  orig: 200, 540
+  offset: 54, 55
+  index: -1
+glow_00011
+  rotate: false
+  xy: 2, 15
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

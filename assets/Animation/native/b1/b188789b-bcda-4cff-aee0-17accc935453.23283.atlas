@@ -1,0 +1,83 @@
+
+fffl.png
+size: 1021,582
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_fg
+  rotate: false
+  xy: 219, 117
+  size: 453, 463
+  orig: 455, 465
+  offset: 1, 1
+  index: -1
+lz0001
+  rotate: true
+  xy: 2, 2
+  size: 59, 122
+  orig: 89, 150
+  offset: 16, 11
+  index: -1
+lz0002
+  rotate: true
+  xy: 573, 36
+  size: 79, 150
+  orig: 89, 150
+  offset: 0, 0
+  index: -1
+lz0003
+  rotate: true
+  xy: 674, 131
+  size: 79, 149
+  orig: 89, 150
+  offset: 6, 0
+  index: -1
+lz0004
+  rotate: true
+  xy: 423, 35
+  size: 80, 148
+  orig: 89, 150
+  offset: 8, 0
+  index: -1
+x1
+  rotate: true
+  xy: 321, 14
+  size: 101, 100
+  orig: 103, 102
+  offset: 1, 1
+  index: -1
+x2
+  rotate: false
+  xy: 725, 3
+  size: 124, 126
+  orig: 126, 128
+  offset: 1, 1
+  index: -1
+x3
+  rotate: true
+  xy: 219, 13
+  size: 102, 100
+  orig: 104, 102
+  offset: 1, 1
+  index: -1
+xx
+  rotate: true
+  xy: 851, 60
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+z
+  rotate: true
+  xy: 2, 63
+  size: 517, 215
+  orig: 519, 217
+  offset: 1, 1
+  index: -1
+zt
+  rotate: false
+  xy: 674, 212
+  size: 345, 368
+  orig: 347, 370
+  offset: 1, 1
+  index: -1

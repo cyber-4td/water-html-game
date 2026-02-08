@@ -1,0 +1,76 @@
+
+qie.png
+size: 189,477
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erji
+  rotate: false
+  xy: 2, 361
+  size: 176, 114
+  orig: 178, 116
+  offset: 1, 1
+  index: -1
+lian
+  rotate: false
+  xy: 2, 253
+  size: 135, 106
+  orig: 137, 108
+  offset: 1, 1
+  index: -1
+maozi
+  rotate: true
+  xy: 124, 93
+  size: 119, 61
+  orig: 121, 63
+  offset: 1, 1
+  index: -1
+moj
+  rotate: true
+  xy: 83, 129
+  size: 122, 39
+  orig: 124, 41
+  offset: 1, 1
+  index: -1
+shoubi
+  rotate: true
+  xy: 2, 44
+  size: 43, 72
+  orig: 45, 74
+  offset: 1, 1
+  index: -1
+shoubi2
+  rotate: true
+  xy: 2, 2
+  size: 40, 70
+  orig: 42, 72
+  offset: 1, 1
+  index: -1
+yj
+  rotate: true
+  xy: 2, 89
+  size: 162, 79
+  orig: 164, 81
+  offset: 1, 1
+  index: -1
+yj1
+  rotate: false
+  xy: 83, 25
+  size: 104, 66
+  orig: 106, 68
+  offset: 1, 1
+  index: -1
+yj2
+  rotate: true
+  xy: 139, 214
+  size: 145, 36
+  orig: 147, 38
+  offset: 1, 1
+  index: -1
+zb
+  rotate: false
+  xy: 83, 93
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1

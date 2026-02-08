@@ -1,0 +1,90 @@
+
+shu.png
+size: 295,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biti
+  rotate: true
+  xy: 195, 32
+  size: 15, 38
+  orig: 17, 40
+  offset: 1, 1
+  index: -1
+biyan
+  rotate: false
+  xy: 235, 39
+  size: 52, 10
+  orig: 75, 10
+  offset: 10, 0
+  index: -1
+ed
+  rotate: true
+  xy: 223, 51
+  size: 36, 42
+  orig: 38, 44
+  offset: 1, 1
+  index: -1
+ed2
+  rotate: true
+  xy: 250, 2
+  size: 35, 43
+  orig: 37, 45
+  offset: 1, 1
+  index: -1
+shou
+  rotate: false
+  xy: 223, 89
+  size: 33, 49
+  orig: 35, 51
+  offset: 1, 1
+  index: -1
+shou2
+  rotate: false
+  xy: 258, 91
+  size: 31, 47
+  orig: 33, 49
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 2, 4
+  size: 152, 134
+  orig: 154, 136
+  offset: 1, 1
+  index: -1
+ya
+  rotate: true
+  xy: 267, 71
+  size: 18, 13
+  orig: 20, 15
+  offset: 1, 1
+  index: -1
+yf
+  rotate: true
+  xy: 156, 27
+  size: 111, 37
+  orig: 113, 39
+  offset: 1, 1
+  index: -1
+yf2
+  rotate: true
+  xy: 195, 49
+  size: 89, 26
+  orig: 91, 28
+  offset: 1, 1
+  index: -1
+yj
+  rotate: false
+  xy: 156, 11
+  size: 57, 14
+  orig: 59, 16
+  offset: 1, 1
+  index: -1
+zuiba
+  rotate: false
+  xy: 215, 9
+  size: 33, 21
+  orig: 35, 23
+  offset: 1, 1
+  index: -1

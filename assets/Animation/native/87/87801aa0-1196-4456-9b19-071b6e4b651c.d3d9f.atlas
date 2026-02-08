@@ -1,0 +1,76 @@
+
+shuidi.png
+size: 522,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/lianyi
+  rotate: true
+  xy: 458, 18
+  size: 91, 28
+  orig: 93, 30
+  offset: 1, 1
+  index: -1
+images/shui1
+  rotate: true
+  xy: 488, 37
+  size: 37, 25
+  orig: 39, 27
+  offset: 1, 1
+  index: -1
+images/shui3
+  rotate: true
+  xy: 488, 76
+  size: 33, 32
+  orig: 35, 34
+  offset: 1, 1
+  index: -1
+images/shui4
+  rotate: false
+  xy: 488, 12
+  size: 25, 23
+  orig: 27, 25
+  offset: 1, 1
+  index: -1
+images/shui5
+  rotate: false
+  xy: 497, 123
+  size: 23, 32
+  orig: 25, 34
+  offset: 1, 1
+  index: -1
+images/shui6
+  rotate: true
+  xy: 458, 111
+  size: 44, 37
+  orig: 46, 39
+  offset: 1, 1
+  index: -1
+images/shui7
+  rotate: true
+  xy: 458, 2
+  size: 14, 16
+  orig: 16, 18
+  offset: 1, 1
+  index: -1
+images/shuidi
+  rotate: false
+  xy: 2, 5
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/shuidiglow
+  rotate: false
+  xy: 154, 5
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/shuidiglow2
+  rotate: false
+  xy: 306, 5
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

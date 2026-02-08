@@ -1,0 +1,76 @@
+
+dsjs.png
+size: 934,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glwo
+  rotate: false
+  xy: 867, 8
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+jssk
+  rotate: true
+  xy: 867, 58
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+sheng1
+  rotate: true
+  xy: 2, 4
+  size: 102, 149
+  orig: 102, 149
+  offset: 0, 0
+  index: -1
+sheng4
+  rotate: true
+  xy: 153, 3
+  size: 103, 124
+  orig: 103, 124
+  offset: 0, 0
+  index: -1
+suo1_1
+  rotate: false
+  xy: 279, 2
+  size: 120, 104
+  orig: 122, 105
+  offset: 1, 1
+  index: -1
+suo1_2
+  rotate: true
+  xy: 645, 16
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+suo2_1
+  rotate: false
+  xy: 401, 2
+  size: 120, 104
+  orig: 122, 105
+  offset: 1, 1
+  index: -1
+suo2_2
+  rotate: true
+  xy: 719, 16
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+suo3_1
+  rotate: false
+  xy: 523, 2
+  size: 120, 104
+  orig: 122, 105
+  offset: 1, 1
+  index: -1
+suo3_2
+  rotate: true
+  xy: 793, 16
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1

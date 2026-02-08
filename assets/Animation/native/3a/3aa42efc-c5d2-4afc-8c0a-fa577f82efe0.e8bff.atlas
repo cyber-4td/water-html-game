@@ -1,0 +1,20 @@
+
+sz.png
+size: 35,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuizhu1
+  rotate: false
+  xy: 23, 6
+  size: 10, 262
+  orig: 12, 264
+  offset: 1, 1
+  index: -1
+shuizhu2
+  rotate: false
+  xy: 2, 2
+  size: 19, 266
+  orig: 21, 268
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,13 @@
+
+zz.png
+size: 58,51
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zz
+  rotate: false
+  xy: 2, 2
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1

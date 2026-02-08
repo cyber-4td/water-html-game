@@ -1,0 +1,104 @@
+
+piglose.png
+size: 1383,363
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biti
+  rotate: false
+  xy: 1340, 46
+  size: 36, 91
+  orig: 38, 93
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 407, 79
+  size: 390, 282
+  orig: 477, 392
+  offset: 0, 0
+  index: -1
+erduo1
+  rotate: false
+  xy: 851, 25
+  size: 101, 64
+  orig: 101, 64
+  offset: 0, 0
+  index: -1
+erduo2
+  rotate: true
+  xy: 1296, 139
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 1080, 124
+  size: 109, 237
+  orig: 111, 239
+  offset: 1, 1
+  index: -1
+jiao2
+  rotate: true
+  xy: 954, 8
+  size: 110, 238
+  orig: 112, 240
+  offset: 1, 1
+  index: -1
+lei
+  rotate: true
+  xy: 799, 91
+  size: 270, 146
+  orig: 272, 150
+  offset: 0, 2
+  index: -1
+meimao
+  rotate: false
+  xy: 407, 2
+  size: 226, 75
+  orig: 226, 75
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 947, 120
+  size: 241, 131
+  orig: 241, 131
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 1194, 19
+  size: 114, 144
+  orig: 114, 144
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 5
+  size: 403, 356
+  orig: 403, 356
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 635, 24
+  size: 214, 53
+  orig: 214, 53
+  offset: 0, 0
+  index: -1
+yj2
+  rotate: true
+  xy: 1296, 203
+  size: 158, 39
+  orig: 158, 39
+  offset: 0, 0
+  index: -1
+yj3
+  rotate: true
+  xy: 1191, 135
+  size: 226, 103
+  orig: 236, 110
+  offset: 4, 3
+  index: -1
